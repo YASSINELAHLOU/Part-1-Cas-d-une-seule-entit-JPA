@@ -1,1 +1,1 @@
-# Part-1-Cas-d-une-seule-entit-JPA
+# Spring Boot - ORM avec Spring Data JPA
